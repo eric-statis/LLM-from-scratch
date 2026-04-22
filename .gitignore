@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+
+# Data files
+scifi-demo/data/
+*.txt
+!README.txt
+
+# Jupyter
+.ipynb_checkpoints/
